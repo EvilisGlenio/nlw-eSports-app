@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nlw-eSports-app/static/css/main.6fe5d04b.css",
+    "main.js": "/nlw-eSports-app/static/js/main.03c1ce38.js",
+    "static/js/787.25c57597.chunk.js": "/nlw-eSports-app/static/js/787.25c57597.chunk.js",
+    "static/media/bg.jpg": "/nlw-eSports-app/static/media/bg.829cc694262cbb31863d.jpg",
+    "index.html": "/nlw-eSports-app/index.html",
+    "main.6fe5d04b.css.map": "/nlw-eSports-app/static/css/main.6fe5d04b.css.map",
+    "main.03c1ce38.js.map": "/nlw-eSports-app/static/js/main.03c1ce38.js.map",
+    "787.25c57597.chunk.js.map": "/nlw-eSports-app/static/js/787.25c57597.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe5d04b.css",
+    "static/js/main.03c1ce38.js"
+  ]
+}
